@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\mondo\\RiderProjects\\FacturationSolution\\FacturationSolution\\FacturationSolution.csproj",
+    "projectUniqueName": "C:\\Users\\mondo\\OneDrive\\Documents\\GitHub\\ExerciceFacturationMoevaMondoha\\FacturationSolution\\FacturationSolution\\FacturationSolution.csproj",
     "projectName": "FacturationSolution",
-    "projectPath": "C:\\Users\\mondo\\RiderProjects\\FacturationSolution\\FacturationSolution\\FacturationSolution.csproj",
-    "outputPath": "C:\\Users\\mondo\\RiderProjects\\FacturationSolution\\FacturationSolution\\obj\\",
+    "projectPath": "C:\\Users\\mondo\\OneDrive\\Documents\\GitHub\\ExerciceFacturationMoevaMondoha\\FacturationSolution\\FacturationSolution\\FacturationSolution.csproj",
+    "outputPath": "C:\\Users\\mondo\\OneDrive\\Documents\\GitHub\\ExerciceFacturationMoevaMondoha\\FacturationSolution\\FacturationSolution\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"

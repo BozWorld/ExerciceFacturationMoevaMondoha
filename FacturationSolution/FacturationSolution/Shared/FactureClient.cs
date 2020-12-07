@@ -13,7 +13,7 @@ namespace FacturationSolution.Shared
         public int montants_dû { get; set; }
         public int montants_regler { get; set; }
 
-        public FactureClient(string client, DateTime emssion, DateTime reglementation, int numero, int montants_dû, int montantsRegler)
+        public FactureClient(string client, DateTime emission, DateTime reglementation, int numero, int montants_dû, int montantsRegler)
         {
             this.client = client;
             this.emission = emission;
