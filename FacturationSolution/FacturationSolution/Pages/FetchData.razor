@@ -1,0 +1,74 @@
+﻿@page "/fetchdata"
+@inject HttpClient Http
+
+<h1>Facture Client</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (forecasts == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>client</th>
+            <th>emission</th>
+            <th>reglementation</th>
+            <th>numero</th>
+            <th>montants_dû</th>
+            <th>montants_regler</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var forecast in forecasts)
+        {
+            <tr>
+                <td>@forecast.client</td>
+                <td>@forecast.emission.ToShortDateString()</td>
+                <td>@forecast.reglementation.ToShortDateString()</td>
+                <td>@forecast.numero</td>
+                <td>@forecast.montants_dû</td>
+                <td>@forecast.montants_regler</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private FactureClient[] forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<FactureClient[]>("sample-data/weather.json");
+    }
+
+    public class FactureClient
+    {
+        public string client { get; set; }
+        public DateTime emission { get; set; }
+        
+        public DateTime reglementation { get; set; }
+        
+        public int numero { get; set; }
+        public int montants_dû { get; set; }
+        public int montants_regler { get; set; }
+
+        public FactureClient(String client, DateTime emssion, DateTime reglementation, int numero, int montants_dû, int montantsRegler)
+        {
+            this.client = client;
+            this.emission = emission;
+            this.reglementation = reglementation;
+            this.numero = numero;
+            this.montants_dû = montants_dû;
+            this.montants_regler = montantsRegler;
+        }
+        
+    }
+
+}

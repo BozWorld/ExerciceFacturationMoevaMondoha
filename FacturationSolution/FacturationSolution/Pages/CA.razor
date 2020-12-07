@@ -1,0 +1,31 @@
+﻿@page "/CA"
+@using FacturationSolution.Shared
+@inject IBusinessData data
+<h3>Chiffre d'afaire</h3>
+
+<p> Voici une aperçu des chiffres d'affaires réels et attendus </p>
+
+<p>  Chiffre d'affaire réel : @IncrementCADu() </p>
+<p>  Chiffre d'affaire supposé : @IncrementCAReel() </p>
+@code {
+    private int caDû = 0;
+    private int caSupposé = 0;
+    private int IncrementCADu()
+    {
+        @foreach (var factures in data.Factures)
+        {
+            caDû += @factures.montants_dû;
+
+        }
+        return caDû;
+    }
+    private int IncrementCAReel()
+    {
+    @foreach (var factures in data.Factures)
+    {
+        caSupposé += @factures.montants_regler;
+    }
+        return caSupposé;
+    }
+    
+}

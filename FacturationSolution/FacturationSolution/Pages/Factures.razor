@@ -1,0 +1,36 @@
+﻿@page "/Factures"
+@using FacturationSolution.Shared
+@inject IBusinessData data
+<h3>Factures</h3>
+
+<p>Retrouver ici toute les informations sur vos factures!</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>client</th>
+        <th>emission</th>
+        <th>reglementation</th>
+        <th>numero</th>
+        <th>montants_dû</th>
+        <th>montants_regler</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    @foreach (var factures in data.Factures)
+    {
+        <tr>
+            <td>@factures.client</td>
+            <td>@factures.emission.ToShortDateString()</td>
+            <td>@factures.reglementation.ToShortDateString()</td>
+            <td>@factures.numero</td>
+            <td>@factures.montants_dû</td>
+            <td>@factures.montants_regler</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@code {
+    
+}
