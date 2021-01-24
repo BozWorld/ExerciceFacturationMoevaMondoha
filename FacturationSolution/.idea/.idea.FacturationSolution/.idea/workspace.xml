@@ -5,52 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fe38037-52da-4167-bdba-0cc007eccf19" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacturationSolution/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacturationSolution/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/Shared/BusinessData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/Shared/BusinessData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/Shared/FactureClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/Shared/FactureClient.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/FacturationSolution.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/FacturationSolution.StaticWebAssets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/FacturationSolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/FacturationSolution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/FacturationSolution.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/FacturationSolution.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/ref/FacturationSolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/ref/FacturationSolution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/wwwroot/_framework/FacturationSolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/wwwroot/_framework/FacturationSolution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/wwwroot/_framework/FacturationSolution.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/wwwroot/_framework/FacturationSolution.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacturationSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacturationSolution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/FacturationSolution.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/App.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/CA.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/CA.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/Factures.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/Factures.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/Razor/_Imports.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/FacturationSolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/FacturationSolution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/FacturationSolution.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/FacturationSolution.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/CA.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/CA.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/Factures.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/Factures.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/ref/FacturationSolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/ref/FacturationSolution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/staticwebassets/FacturationSolution.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/staticwebassets/FacturationSolution.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/staticwebassets/FacturationSolution.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/Debug/net5.0/staticwebassets/FacturationSolution.StaticWebAssets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/FacturationSolution.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/FacturationSolution.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacturationSolution/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FacturationSolution/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,15 +19,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FacturationSolution/Pages/FetchData.razor" />
-        <option value="$PROJECT_DIR$/FacturationSolution/Shared/IBusinessData.cs" />
-        <option value="$PROJECT_DIR$/FacturationSolution/Program.cs" />
         <option value="$PROJECT_DIR$/FacturationSolution/Shared/NavMenu.razor" />
-        <option value="$PROJECT_DIR$/FacturationSolution/Pages/CA.razor" />
         <option value="$PROJECT_DIR$/FacturationSolution/Pages/Index.razor" />
         <option value="$PROJECT_DIR$/FacturationSolution/Pages/Factures.razor" />
         <option value="$PROJECT_DIR$/FacturationSolution/Shared/FactureClient.cs" />
         <option value="$PROJECT_DIR$/FacturationSolution/Shared/BusinessData.cs" />
+        <option value="$PROJECT_DIR$/FacturationSolution/Pages/CA.razor" />
+        <option value="$PROJECT_DIR$/FacturationSolution/Pages/FetchData.razor" />
+        <option value="$PROJECT_DIR$/FacturationSolution/Pages/Counter.razor" />
+        <option value="$PROJECT_DIR$/FacturationSolution/Program.cs" />
+        <option value="$PROJECT_DIR$/FacturationSolution/Shared/IBusinessData.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +39,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -129,6 +88,11 @@
       <updated>1607329656062</updated>
       <workItem from="1607329665397" duration="8846000" />
       <workItem from="1607347070642" duration="248000" />
+      <workItem from="1607608450346" duration="5124000" />
+      <workItem from="1609933821295" duration="1211000" />
+      <workItem from="1610014138834" duration="9467000" />
+      <workItem from="1610049829445" duration="4734000" />
+      <workItem from="1610100076084" duration="3084000" />
     </task>
     <servers />
   </component>
@@ -141,26 +105,95 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607347317821">
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1610027246428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607347317821" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607347317821">
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1610027246428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607347317821" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607347317821">
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1610027246428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607347317821" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607347317821">
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1610027246428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607347317821" />
-    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1607333757350">
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1610027246428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1610027246428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1610027246428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1610027246428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246428" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1610027246429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610027246429" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1607613579918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607333757350" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1607613579918" />
     <state x="-2160" y="-21" width="1413" height="718" maximized="true" key="dock-window-1" timestamp="1607337287947">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
